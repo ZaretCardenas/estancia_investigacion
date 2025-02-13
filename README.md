@@ -46,7 +46,16 @@ Al final del proyecto se evaluarán las siguientes hipótesis:
 - **H7**: Los inversionistas formularán preguntas de índole operativa a las mujeres emprendedoras, mientras que los cuestionamientos serán de tipo estratégico para los hombres.  
 - **H8**: Los criterios de inversión de las inversionistas mujeres serán diferentes de los considerados por los inversionistas hombres.  
 
-Blei, Ng & Jordan (2003) - Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  
+
+## **Ligas de interés** 
+- [Shap Documentation](https://shap.readthedocs.io/en/latest/)  
+- [Balachandra et al. (2019) - Don’t pitch like a girl!](https://journals.sagepub.com/doi/10.1177/1042258717729910)  
+- [Balachandra (2020) - How gender biases drive venture capital decision-making](https://www.emerald.com/insight/content/doi/10.1108/GM-09-2019-0158/full/html)  
+- [Bapna & Ganco (2021) - Gender gaps in equity crowdfunding](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3730)  
+- [Becker (1957) - The Economics of Discrimination](https://press.uchicago.edu/ucp/books/book/chicago/E/bo28503666.html)  
+- [Benjamin & Margulis (2005) - Angel Capital: How to Raise Early-Stage Private Equity Financing](https://www.wiley.com/en-us/Angel+Capital%3A+How+to+Raise+Early+Stage+Private+Equity+Financing-p-9780471690613)  
+- [Blei (2012) - Probabilistic Topic Models](https://dl.acm.org/doi/10.1145/2133806.2133826)  
+- [Blei, Ng & Jordan (2003) - Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  
 - [Bordalo et al. (2016) - Stereotypes](https://academic.oup.com/qje/article/131/4/1753/2468875)  
 - [Brooks et al. (2014) - Investors prefer entrepreneurial ventures pitched by attractive men](https://www.pnas.org/doi/10.1073/pnas.1321202111)  
 - [Brush et al. (2014) - The Diana Project](https://www.babson.edu/media/babson/site-assets/content-assets/about/academics/centres-and-institutes/centres/blank-institute/diana-research/2014-diana-project-report.pdf)  
