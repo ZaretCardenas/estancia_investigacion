@@ -46,6 +46,18 @@ Al final del proyecto se evaluarán las siguientes hipótesis:
 - **H7**: Los inversionistas formularán preguntas de índole operativa a las mujeres emprendedoras, mientras que los cuestionamientos serán de tipo estratégico para los hombres.  
 - **H8**: Los criterios de inversión de las inversionistas mujeres serán diferentes de los considerados por los inversionistas hombres.  
 
-## **Ligas de interés**  
-
-- [Shap Documentation](https://shap.readthedocs.io/en/latest/)
+Blei, Ng & Jordan (2003) - Latent Dirichlet Allocation](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf)  
+- [Bordalo et al. (2016) - Stereotypes](https://academic.oup.com/qje/article/131/4/1753/2468875)  
+- [Brooks et al. (2014) - Investors prefer entrepreneurial ventures pitched by attractive men](https://www.pnas.org/doi/10.1073/pnas.1321202111)  
+- [Brush et al. (2014) - The Diana Project](https://www.babson.edu/media/babson/site-assets/content-assets/about/academics/centres-and-institutes/centres/blank-institute/diana-research/2014-diana-project-report.pdf)  
+- [Brush, Greene & Welter (2020) - The Diana Project: A legacy for research on gender in entrepreneurship](https://www.emerald.com/insight/content/doi/10.1108/IJGE-12-2019-0199/full/html)  
+- [Caliskan, Bryson & Narayanan (2017) - Semantics derived automatically from language corpora contain human-like biases](https://www.science.org/doi/10.1126/science.aal4230)  
+- [Cassion et al. (2020) - Investors embrace gender diversity, not female CEOs](https://link.springer.com/chapter/10.1007/978-3-030-53956-6_9)  
+- [Cassion et al. (2021) - Investors embrace gender diversity, not female CEOs (arXiv)](https://arxiv.org/abs/2101.12008)  
+- [Chuang, Manning & Heer (2012) - Termite: Visualization Techniques for Assessing Textual Topic Models](https://ieeexplore.ieee.org/document/6467133)  
+- [Devlin et al. (2019) - BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805)  
+- [Eagly & Karau (2002) - Role congruity theory of prejudice toward female leaders](https://psycnet.apa.org/record/2002-14063-005)  
+- [Eddleston & Powell (2008) - Gender identity in explaining sex differences in business owners’ career satisfier preferences](https://www.sciencedirect.com/science/article/pii/S0883902607000396)  
+- [Färber & Klein (2021) - Are Investors Biased Against Women? (arXiv)](https://arxiv.org/abs/2112.00859)  
+- [Kahneman & Tversky (1979) - Prospect theory: An analysis of decision under risk](https://www.jstor.org/stable/1914185)  
+- [Tversky & Kahneman (1981) - The framing of decisions and the psychology of choice](https://www.science.org/doi/10.1126/science.7455683)  
