@@ -26,12 +26,12 @@ profunda de cómo los sesgos de género operan desde ambos lados de la decisión
 
 ## Pasos del proyecto  
 
-| Análisis | Descripción |
-|----------|------------|
-| **Análisis Exploratorio** | El proyecto está bien organizado, fácil de seguir y se especifica claramente el problema a resolver. |
-| **Tópicos respecto al género del inversionista (Segundo Enfoque)** | Instrucciones de cómo ejecutar el código. Nombres de las variables y funciones son descriptivas. Incluye comentarios para que el lector pueda seguir el algoritmo. Se incluyen casos de prueba. |
-| **Tópicos respecto al género del emprendedor (Segundo Enfoque)** | Todos los elementos del proyecto están incluidos. La lógica del código es correcta y produce resultados con sentido. |
-| **Análisis** | Todas las preguntas de análisis en la descripción del proyecto fueron resueltas. La interpretación del resultado está incluida. |                                                           |
+| Análisis | Código | Explicación |
+|----------|------------|------------|
+| **Análisis Exploratorio** | 0.EDA final.ipynb | Este código proporciona un análisis descriptivo de la base consolidada para conocer mejor a la población, dentro de la carpeta data se encuentra el archivo: Shark_tank_baseconsolidada.csv |
+| **Tópicos respecto al género del inversionista (Segundo Enfoque)** | obtener_topicos_inversionista_segundo_enfoque.py | Dentro de la carpeta Modelado_topicos_segundo_enfoque correr el código para obtener las sintesis de los pitches así como los modelos LDA |
+| **Tópicos respecto al género del emprendedor (Segundo Enfoque)** | obtener_topicos_emprendedor_segundo_enfoque.py | Dentro de la carpeta Modelado_topicos_segundo_enfoque |
+| **Análisis** |  | Dentro de la carpeta  |                                              |
 
 ## **Demostración del proyecto**  
 
