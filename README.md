@@ -33,22 +33,19 @@ profunda de cómo los sesgos de género operan desde ambos lados de la decisión
 | **Tópicos respecto al género del emprendedor (Segundo Enfoque)** | Todos los elementos del proyecto están incluidos. La lógica del código es correcta y produce resultados con sentido. |
 | **Análisis** | Todas las preguntas de análisis en la descripción del proyecto fueron resueltas. La interpretación del resultado está incluida. |                                                           |
 
-Al final del proyecto se evaluarán las hipótesis planteadas más adelante:
+## **Demostración del proyecto**  
 
--  H1: El porcentaje de acuerdos logrados por emprendedores hombres es mayor que el alcanzado por emprendedoras
-mujeres.
--  H2: El monto de apoyo ofrecido será menor para las emprendedoras mujeres que para los hombres.
-- H3: La tasa de retención de la valuación será menor para las emprendedoras mujeres que para los hombres.
-- H4: La decisión de invertir de las mujeres inversionistas es independiente del género del emprendedor.
-- H5: Los criterios de evaluación de los proyectos que utilizan los inversionistas no son independientes del género del
-emprendedor.
-- H6: Los inversionistas evalúan a las mujeres emprendedoras con un enfoque de prevención y a los hombres con un
-enfoque de promoción.
-- H7: Los inversionistas formularán preguntas de índole operativa a las mujeres emprendedoras, mientras que los cues-
-tionamientos serán de tipo estratégico para los hombres.
-- H8: Los criterios de inversión de las inversionistas mujeres serán diferentes de los considerados por los inversionistas
-hombres.
+Al final del proyecto se evaluarán las siguientes hipótesis:  
 
-* Ligas de interes
+- **H1**: El porcentaje de acuerdos logrados por emprendedores hombres es mayor que el alcanzado por emprendedoras mujeres.  
+- **H2**: El monto de apoyo ofrecido será menor para las emprendedoras mujeres que para los hombres.  
+- **H3**: La tasa de retención de la valuación será menor para las emprendedoras mujeres que para los hombres.  
+- **H4**: La decisión de invertir de las mujeres inversionistas es independiente del género del emprendedor.  
+- **H5**: Los criterios de evaluación de los proyectos que utilizan los inversionistas no son independientes del género del emprendedor.  
+- **H6**: Los inversionistas evalúan a las mujeres emprendedoras con un enfoque de prevención y a los hombres con un enfoque de promoción.  
+- **H7**: Los inversionistas formularán preguntas de índole operativa a las mujeres emprendedoras, mientras que los cuestionamientos serán de tipo estratégico para los hombres.  
+- **H8**: Los criterios de inversión de las inversionistas mujeres serán diferentes de los considerados por los inversionistas hombres.  
 
-- [[[[https://r-graphics.org/](https://shap.readthedocs.io/en/latest/)][Algo]]]
+## **Ligas de interés**  
+
+- [Shap Documentation](https://shap.readthedocs.io/en/latest/)
