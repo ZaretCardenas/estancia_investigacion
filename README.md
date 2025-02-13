@@ -31,7 +31,7 @@ profunda de cómo los sesgos de género operan desde ambos lados de la decisión
 | **Análisis Exploratorio** | 0.EDA final.ipynb | Este código proporciona un análisis descriptivo de la base consolidada para conocer mejor a la población, dentro de la carpeta data se encuentra el archivo: Shark_tank_baseconsolidada.csv |
 | **Tópicos respecto al género del inversionista (Segundo Enfoque)** | obtener_topicos_inversionista_segundo_enfoque.py | Dentro de la carpeta Modelado_topicos_segundo_enfoque correr el código para obtener las sintesis de los pitches así como los modelos LDA |
 | **Tópicos respecto al género del emprendedor (Segundo Enfoque)** | obtener_topicos_emprendedor_segundo_enfoque.py | Dentro de la carpeta Modelado_topicos_segundo_enfoque |
-| **Análisis** |  | Dentro de la carpeta  |                                              |
+| **Test Chi Caudrado** | test_chicuadrado.py | Dentro de la carpeta Test_de_Independencia usar el código para obtener el estadístico X^2 para poder analizar si el género de los inversores y de los emprendedores juegan un papel importante en la decisón de inversión |                                              |
 
 ## **Demostración del proyecto**  
 
