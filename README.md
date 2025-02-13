@@ -1,5 +1,5 @@
-#+Author: Delia Zaret Cárdenas Moreno / Daan Tonatiuh González Espinosa
-#+title: Estancia de Investigación, Modelado de Tópicos Shark Tank
+#Author: Delia Zaret Cárdenas Moreno / Daan Tonatiuh González Espinosa
+#title: Estancia de Investigación, Modelado de Tópicos Shark Tank
 
 * El Trabajo
 
@@ -33,7 +33,8 @@ El proyecto se divide en los siguientes pasos a analizar
 |---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Analisis Exploratorio        | El proyecto está bien organizado, fácil de seguir y se especifica claramente el problema a resolver.                                                                                            |
 | Topicos respecto al genero del inversionista (Segundo Enfoque) | Instrucciones de como ejecutar el código. Nombres de las variables y funciones son descriptivas. Incluye comentarios para que el lector pueda seguir el algoritmo. Se incluyen casos de prueba. |
-| Topicos respecto al genero del emprendedor (Segundo Enfoque)     | Todos los elementos del proyecto están incluidos.                                                                                                              
+| Topicos respecto al genero del emprendedor (Segundo Enfoque)     | Todos los elementos del proyecto están incluidos| Correcto      | La lógica del código es correcta y produce resultados con sentido.                                                                                                                              |
+| Análisis      | Todas las preguntas de análisis en la descripción del proyecto fueron resueltas. La interpretación del resultado está incluida.                                                                 |
 
 ** Demostración del proyecto
 
@@ -55,7 +56,4 @@ hombres.
 
 * Ligas de interes
 
-- [[[https://r-graphics.org/][R Graphics](https://shap.readthedocs.io/en/latest/)]]
-- [[[http://www.greenteapress.com/thinkpython/](https://www.researchgate.net/publication/266918039_LDAvis_A_method_for_visualizing_and_interpreting_topics)]]
-- [[[http://git-scm.com/book][Libro de Git]](https://doi.org/10.1037/a0018963)]
-- [[[https://r4ds.had.co.nz/][R for Data Science]](https://www.ubs.com/global/en/wealth-management/women/2021/women-wealth-parity-power-purpose/_jcr_content/mainpar/toplevelgrid/col2/teaser/linklist/actionbutton.0808140295.file/PS9jb250ZW50L2RhbS9hc3NldHMvd20vZ2xvYmFsL2RvYy93b21lbi13ZWFsdGgtcmVwb3J0LTIw)]
+- [[[[https://r-graphics.org/](https://shap.readthedocs.io/en/latest/)][Algo]]]
