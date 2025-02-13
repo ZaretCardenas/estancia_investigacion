@@ -1,9 +1,6 @@
-#Author: Delia Zaret Cárdenas Moreno / Daan Tonatiuh González Espinosa
-#title: Estancia de Investigación, Modelado de Tópicos Shark Tank
-
-* El Trabajo
-
-** Objetivos:
+# Estancia de Investigación: Modelado de Tópicos Shark Tank
+## Autores: Delia Zaret Cárdenas Moreno - Daan Tonatiuh González Espinosa
+## Objetivos:
  - Analizar la existencia y naturaleza de sesgos de género en el proceso de evaluación y financiamiento de startups en
 el ecosistema de venture capital en México, examinando las interacciones entre inversionistas y emprendedores durante el
 proceso de evaluación de los proyectos de emprendimiento (pitches).
@@ -27,16 +24,14 @@ análisis del contenido y estructura de las preguntas formuladas durante sesione
 el género del inversionista influye en sus marcos conceptuales de evaluación, proporcionando una comprensión más
 profunda de cómo los sesgos de género operan desde ambos lados de la decisión de inversión.
 
-El proyecto se divide en los siguientes pasos a analizar
+## Pasos del proyecto  
 
-| Análisis     | Código                                                                                                                                                                                     |
-|---------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Analisis Exploratorio        | El proyecto está bien organizado, fácil de seguir y se especifica claramente el problema a resolver.                                                                                            |
-| Topicos respecto al genero del inversionista (Segundo Enfoque) | Instrucciones de como ejecutar el código. Nombres de las variables y funciones son descriptivas. Incluye comentarios para que el lector pueda seguir el algoritmo. Se incluyen casos de prueba. |
-| Topicos respecto al genero del emprendedor (Segundo Enfoque)     | Todos los elementos del proyecto están incluidos| Correcto      | La lógica del código es correcta y produce resultados con sentido.                                                                                                                              |
-| Análisis      | Todas las preguntas de análisis en la descripción del proyecto fueron resueltas. La interpretación del resultado está incluida.                                                                 |
-
-** Demostración del proyecto
+| Análisis | Descripción |
+|----------|------------|
+| **Análisis Exploratorio** | El proyecto está bien organizado, fácil de seguir y se especifica claramente el problema a resolver. |
+| **Tópicos respecto al género del inversionista (Segundo Enfoque)** | Instrucciones de cómo ejecutar el código. Nombres de las variables y funciones son descriptivas. Incluye comentarios para que el lector pueda seguir el algoritmo. Se incluyen casos de prueba. |
+| **Tópicos respecto al género del emprendedor (Segundo Enfoque)** | Todos los elementos del proyecto están incluidos. La lógica del código es correcta y produce resultados con sentido. |
+| **Análisis** | Todas las preguntas de análisis en la descripción del proyecto fueron resueltas. La interpretación del resultado está incluida. |                                                           |
 
 Al final del proyecto se evaluarán las hipótesis planteadas más adelante:
 
