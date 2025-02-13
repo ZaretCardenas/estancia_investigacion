@@ -1,5 +1,7 @@
 # Estancia de Investigación: Modelado de Tópicos Shark Tank
-## Autores: Delia Zaret Cárdenas Moreno - Daan Tonatiuh González Espinosa
+## Autores: 
+ - Delia Zaret Cárdenas Moreno
+ - Daan Tonatiuh González Espinosa
 ## Objetivos:
  - Analizar la existencia y naturaleza de sesgos de género en el proceso de evaluación y financiamiento de startups en
 el ecosistema de venture capital en México, examinando las interacciones entre inversionistas y emprendedores durante el
