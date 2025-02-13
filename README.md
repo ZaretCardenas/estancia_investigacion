@@ -26,7 +26,7 @@ análisis del contenido y estructura de las preguntas formuladas durante sesione
 el género del inversionista influye en sus marcos conceptuales de evaluación, proporcionando una comprensión más
 profunda de cómo los sesgos de género operan desde ambos lados de la decisión de inversión.
 
-## Pasos del proyecto  
+## Cuerpo del proyecto:  
 
 | Análisis | Código | Explicación |
 |----------|------------|------------|
@@ -35,9 +35,9 @@ profunda de cómo los sesgos de género operan desde ambos lados de la decisión
 | **Tópicos respecto al género del emprendedor (Segundo Enfoque)** | obtener_topicos_emprendedor_segundo_enfoque.py | Dentro de la carpeta Modelado_topicos_segundo_enfoque correr el código para obtener las sintesis de los pitches de inversionistas mujeres y hombres dependiendo del género de los emprendedores así como los modelos LDA y obtener los tópicos más relevantes |
 | **Test Chi Caudrado** | test_chicuadrado.py | Dentro de la carpeta Test_de_Independencia usar el código para obtener el estadístico X^2 para poder analizar si el género de los inversores y de los emprendedores juegan un papel importante en la decisón de inversión |                                              |
 
-## **Demostración del proyecto**  
+## Demostraciones del proyecto:
 
-Al final del proyecto se evaluarán las siguientes hipótesis:  
+ Al final del proyecto se evaluarán las siguientes hipótesis:  
 
 - **H1**: El porcentaje de acuerdos logrados por emprendedores hombres es mayor que el alcanzado por emprendedoras mujeres.  
 - **H2**: El monto de apoyo ofrecido será menor para las emprendedoras mujeres que para los hombres.  
@@ -49,7 +49,7 @@ Al final del proyecto se evaluarán las siguientes hipótesis:
 - **H8**: Los criterios de inversión de las inversionistas mujeres serán diferentes de los considerados por los inversionistas hombres.  
 
 
-## **Ligas de interés** 
+## :Ligas de interés:
 - [Shap Documentation](https://shap.readthedocs.io/en/latest/)  
 - [Balachandra et al. (2019) - Don’t pitch like a girl!](https://journals.sagepub.com/doi/10.1177/1042258717729910)  
 - [Balachandra (2020) - How gender biases drive venture capital decision-making](https://www.emerald.com/insight/content/doi/10.1108/GM-09-2019-0158/full/html)  
