@@ -1,0 +1,152 @@
+[entrepreneurM 1]
+More than 2 million people live with visual impairment, either low vision or total blindness. My name is Cindy del Río, and I'm an activist for the inclusion of people with visual impairment.
+
+[entrepreneurH 1]
+I'm Ángel González, mechatronics engineer, and together we are Auhem Technologies.
+
+[entrepreneurM 1]
+The white cane has always been our tool of excellence to move around autonomously. However, it is not enough, since it is well known that on the street there may be obstacles that are at heights beyond our waist that the cane cannot detect, be it trees, cables or even windows that if they are not detected in time can cause accidents that would be fatal. To do this, a robot is created, a device that, through vibrations, detects everything that the cane cannot.
+
+[entrepreneurH 1]
+We seek to reach more and more people because we have the faith that we can create an increasingly positive impact. That is why today we are in front of you, sharks, to ask for 650,000 pesos for 10% of Auhem Technologies with the aim of providing greater independence to people with visual impairment.
+
+[entrepreneurM 1]
+Now, sharks, we would love to invite you to live experience, to know the added value that the device can give to people with visual impairment. Any volunteers?
+
+
+[sharkH 6]
+ You need both, the cane and the device, right?
+
+[entrepreneurM 1]
+Yes, you need both, so there is no cane without Ultraworld and there will be no Ultraworld without a cane.
+
+[sharkH 6]
+What is the technology in here?
+
+[entrepreneurH 1]
+It is a sensor, similar to the reverse of cars, but oriented to identify everything that is at the height of the head. Sometimes we say it's like a virtual cane. 
+
+[sharkH 6]
+In this case, it would detect the cable?
+
+[entrepreneurH 1]
+Yes, exactly.
+
+[entrepreneurM 1]
+You are going to extend the cane and you are going to use it at the height of the floor, to the width of the shoulders, left and right.
+
+[entrepreneurH 1]
+It has a button that is on and off. So when something is identified, it will start to vibrate. The distance is 1.20 meters and the vibration will be stronger as the obstacle gets closer. So here I'm going to guide. If you want, change the hand cane and I'm going to put this on. 
+
+[sharkH 6]
+Let's see, here it is vibrating.
+
+[sharkM 6]
+Does it matter how high up the body you hang yourself or put the device on?
+
+[entrepreneurM 1]
+Yes, it depends. It is designed to detect the obstacles that are from the waist up. Obviously, with the idea that, as it is a necklace or a clip, it will detect it because it is here, in this part of the chest, in the middle of our body.
+
+[sharkH 6]
+Hey, Cindy, you as a user, how long have you been using it and what change has this device had in your life?
+
+[entrepreneurM 1]
+It has had a lot of change because I travel a lot alone in the city. I use a lot of public transport, I walk a lot on avenues. So it has meant a big change because it gives me more security when it comes to my movement.
+
+And I have been using it since we also started to iterate, which was three years ago. 
+
+[sharkM 6]
+You mentioned that you are an activist.
+
+[entrepreneurM 1]
+That's right.
+
+[sharkM 6]
+Tell us a little bit about what you do.
+
+[entrepreneurM 1]
+Well, I raise awareness about visual disability through social networks. I started generating audiovisual content, so I have already been on several platforms with more than half a million followers. Wow!
+
+[sharkM 6]
+Congratulations. 
+
+[entrepreneurM 1]
+Thank you.
+
+[sharkH 6]
+How much does it cost? 
+
+[entrepreneurH 1]
+The price to the public of the device is $4,900 pesos.
+
+[sharkH 6]
+Wow! How much does it cost to make it?
+
+[entrepreneurH 1]
+There we have between $1,800 to $2,500. That margin, why? Because suddenly some electronic components vary and give that variability in the production cost.
+
+[sharkH 6]
+Hey, Ángel, is there a possibility of lowering the cost? Because it seems to me that the price is a bit high.
+
+[entrepreneurH 1]
+Yes, in fact, completely, and that is what we are also looking for. If we have a larger stock, the prices can even go down to $1,000 pesos. 
+
+[sharkH 6]
+How many will have to be manufactured to lower that cost to half?
+
+[entrepreneurH 1]
+From 100. From 100? 100 production and we could reduce the costs significantly.
+
+[sharkM 6]
+How many of these devices have already been sold?
+
+[entrepreneurH 1]
+Right now we already have in this initial stage, which was a pilot test to know the opinion of the users and we placed 25 devices.
+
+[sharkM 6]
+How much do you plan to sell this year?
+
+[entrepreneurH 1]
+This year we plan to have sales of 300,000 Mexican pesos.
+
+[sharkH 6]
+300,000 pesos of utility.
+
+[sharkM 6]
+Basically, you are valuing the company in 10 times future sales of 2023.
+
+[entrepreneurH 1]
+Yes, that's right.
+
+[sharkH 6]
+ I think your numbers are a bit out of place, your model, you still need to round it up. Frankly, I love helping these projects.
+
+I'm not interested in being a partner, I want you to do well and grow. I'm not going to give you what you come to ask for, but I'm going to commit to buying 100 of these devices. I think that will help you start very well, to lower the cost, as you already mentioned, and I also offer you an advice.
+
+I dare to do it first, so that you can leave knowing that you have that in your hands, and maybe some shark may be interested in being your partner and help us grow even more. What do you think? I'm out, but I offer you that.
+
+[sharkH 6]
+As Mauri is saying, I commit to another 100. Once we make a purchase above 100, the cost of the product drops, we will buy it at a lower cost than the one we were told, which was 5,000 pesos, to be able to adjust this and donate these 200 devices to people with very low resources. Okay, very good.
+
+But also for the reasons, for the evaluation you are doing, I'm out. But do count on all my support too. Super good.
+
+[sharkH 6]
+Is this a medical device? 
+
+[entrepreneurH 1]
+No, it's not a medical device.
+
+[sharkH 6]
+Ángel, I'm sorry, but it is a medical device. You have an invisible person who is depending on this device and if the device gives him a bad measurement, you can cause an accident. And in that sense, you have to have validation, without a doubt.
+
+[sharkH 6]
+I think the one who can contribute the most is probably the most important biomedical engineer in Mexico, an ex-partner of mine, although I think they should go to COFEPRIS. It can also help them in the process.
+
+[entrepreneurH 1]
+Okay.
+
+[sharkH 6]
+I think they have to do a lot. They will also lower the costs a lot. And I think they have two spectacular offers and that's why I'm out, but I can help them with some things.
+
+[sharkM 6]
+In this case, you evaluated the company in a very high way. You have not yet formally started the sale and the company is already being evaluated at 6.5 million pesos. For that reason, I am out.

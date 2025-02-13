@@ -1,0 +1,169 @@
+[Speaker 1 - Man]
+Hello, sharks. My name is Enrique, and my partner, I am Andrés, and we are Maqui.
+
+[Speaker 2 - Man]
+Maqui is a management software for the textile supply chain. Maqui supports textile manufacturers so they can keep control of their entire production chain. It doesn't matter if they are embroiderers, garment makers, printers, or cutters. How do we do it? At Maqui, we communicate with producers, with these satellites or workshops, through instant messaging or by phone. We collect information on how their production is going, how many prints, how many cuts, how their day went; we gather information on updates, and we transform that information into data so that the manufacturer can see how operations are progressing, make real-time decisions, and see the day-to-day details to make business decisions. In four months, we have managed to close deals with seven clients. We are starting next week with three major fashion brands in Colombia and two large retailers in Mexico. We have been generating 100000 pesos monthly, and we are seeking 400000 pesos for 8% of our company.
+
+[Marcus Dantus - Man]
+Is this software as a service?
+
+[Speaker 1 - Man]
+Yes, that's right.
+
+[Karla Berman - Woman]
+What is the monthly subscription?
+
+[Speaker 1 - Man]
+The average ticket is around 1500 dollars.
+
+[Karla Berman - Woman]
+How do you charge? By the number of users, by volume?
+
+[Speaker 1 - Man]
+The cost depends on the number of workshops and the number of garments processed.
+
+[Marcus Dantus - Man]
+That's it?
+
+[Speaker 1 - Man]
+That's it.
+
+[Marcus Dantus - Man]
+How do you charge?
+
+[Speaker 2 - Man]
+The main fee is per number of garments. And at this stage of the business, we have a fairly low fee because we want traction. It could be 0.3 or 0.2 cents of a dollar per processed garment.
+
+[Marisa Lazo - Woman]
+Enrique and Andrés, look, it's hard for me to believe and understand that these large textile companies, these big producers, these major brands don't have this kind of data, don't have these kinds of programs to say, "Okay, I'll send this to this machine and not to that one."
+
+[Speaker 1 - Man]
+The big brands have positions that we call "links." What the link does is go once a week to check with the textile workshops how progress is going, but communication is still very rudimentary.
+
+[Speaker 2 - Man]
+The most the link does is go around on a motorcycle, visit each workshop, note on a little piece of paper how production is going, verify that there are no losses, check that they are complying according to what they said in an instant messaging group. He takes this piece of paper back to the factory, and there are people in charge of sewing, cutting, and he informs each one so they can put it into a spreadsheet. Believe me, seriously, we couldn't believe it either.
+
+[Marisa Lazo - Woman]
+Is that so?
+
+[Karla Berman - Woman]
+Who are your partners?
+
+[Speaker 2 - Man]
+We are four founders in total.
+
+[Karla Berman - Woman]
+How are the percentages divided?
+
+[Speaker 1 - Man]
+We are equal, 15% each.
+
+[Karla Berman - Woman]
+That doesn't add up to 100.
+
+[Speaker 1 - Man]
+No, it adds up to 60%. And we also had an initial Friends and Family round of 10%. So we have an additional 30% to continue raising capital.
+
+[Marcus Dantus - Man]
+Which is in the treasury.
+
+[Speaker 1 - Man]
+Exactly. It hasn't been assigned yet.
+
+[Marisa Lazo - Woman]
+And how do you see yourselves in five years?
+
+[Speaker 1 - Man]
+Well, very interesting question. First, we want to expand this SaaS model so that more brands start using our model and reach more workshops. And in turn, these workshops can start to have contact with these other big brands. Additionally, or the next step, would be financing. We want to help the workshops by financing them so they can carry out production and, in turn, once that production is finished, be able to have the next job.
+
+[Alejandra Ríos - Woman]
+What do you need the 400,000 pesos for?
+
+[Speaker 1 - Man]
+What do we need the 400,000 pesos for? The first thing we need is to develop the product. So our plan this year is to continue making sales until October, close the tap in that quarter, and dedicate ourselves to the clients we already have to improve the product. So the 400,000 pesos would be for personnel development for the product, technology, and development of the platform itself.
+
+[Karla Berman - Woman]
+It's almost brazen to come valuing a company at 4.8 million pesos when you only have 100,000 pesos per month in revenue. But I love conversational commerce; I know it well; I understand what you want to do. The valuation is high, but I want to offer you 400,000 pesos for 10%.
+
+[Speaker 1 - Man]
+Thank you very much. Thank you very much.
+
+[Alejandra Ríos - Woman]
+Have you thought about adding to the platform a tool that can also calculate or tell the market and these brands how much they should pay per garment?
+
+You mentioned a very important point. Sometimes the workshops don't know their margin. They only make enough to eat, to pay salaries, and that's it. And it's up to us to start training them or providing that financial education. "Hey, look, your work is worth this much." And by doing that, we can help them grow.
+
+[Marisa Lazo - Woman]
+Bravo. Bravo.
+
+[Alejandra Ríos - Woman]
+Enrique, you just got my point about why I was asking the question. I think you're tackling a problem that really exists, and I also find it admirable that you've identified it because it's not easy to spot this problem. Marisa and I are going to offer you the 400,000 pesos you came to ask for, but we will ask for 12% of your company.
+
+[Marisa Lazo - Woman]
+And you get two sharks.
+
+[Karla Berman - Woman]
+With less experience in this business.
+
+[Marisa Lazo - Woman]
+No.
+
+[Alejandra Ríos - Woman]
+Less experience in technology, more experience in the textile industry.
+
+[Marcus Dantus - Man]
+In fact, if Karla allows me, I'll join you if you like. But also for 12%.
+
+[Karla Berman - Woman]
+Fine, 400,000 for 12%. So let's say we're offering you the same in terms of money: Ale and Marisa versus Marcus and Karla.
+
+[Amaury Vergara - Man]
+Enrique, Andrés, I find it really great that you're helping small maquiladoras. I celebrate that, acknowledge it, and congratulate you.
+
+[Speaker 1 - Man]
+Thank you very much.
+
+[Amaury Vergara - Man]
+For me, this valuation of almost 12 times in 4 months doesn't drive me crazy. I think you're coming a bit early for me. This is not a project that captivated me. That's why I'm out.
+
+[Speaker 1 - Man]
+Thank you very much. We have two offers of 400,000 for 12%.
+
+[Marisa Lazo - Woman]
+Uh-huh.
+
+[Speaker 1 - Man]
+We have an offer for you.
+
+[Marisa Lazo - Woman]
+Let's hear it, guys.
+
+[Speaker 1 - Man]
+We really feel more than pleased with the empathy and the knowledge you have in the industry and that you share our ambition. We offer you 4% each at the same valuation you were offering a moment ago. It would be like 4% for 600,000, if I'm not mistaken.
+
+[Speaker 2 - Man]
+600,000 pesos.
+
+[Marisa Lazo - Woman]
+150,000 each.
+
+[Speaker 1 - Man]
+That's right.
+
+[Marisa Lazo - Woman]
+It's perfect for me. I don't know what the others think.
+
+[Alejandra Ríos - Woman]
+I'm in.
+
+[Marcus Dantus - Man]
+I'll do whatever Karla says.
+
+[Karla Berman - Woman]
+Well, since I'm very enthusiastic, I'm in too.
+
+[Marisa Lazo - Woman]
+Do we have a deal?
+
+[Speaker 1 - Man]
+We have a deal.

@@ -1,0 +1,112 @@
+[entrepreneurH 1]
+My name is Alberto Rodríguez, I am the founder and CEO of Daero Technologies. My name is Mario Javier Cervantes, I am the co-founder and CEO of Daero Technologies.
+
+[entrepreneurH 1]
+In each flight we make, there are different types of inspections to ensure our safety and take us to our destination with our family and friends. It is interesting, as most of us have taken a commercial flight, but we know very little about what is done to the plane before so that it has a correct aeronavigability. The cost of visually inspecting the fuselage of a plane is around $ 50,000, requiring more than 160 hours by man with high-risk activities carried out by the inspection staff.
+
+With Daero, the airlines will be able to save about 50%, reducing the time of inspection in two thirds, and there will be no need to go up to the upper parts of the plane in search of defects. We are developing a technology where we integrate an autonomous drone created by us. The images taken by the drone are processed on our digital platform, where sophisticated algorithms detect, analyze and position structural defects of the plane.
+
+[entrepreneurH 1]
+We have analyzed the potential market in Mexico in the inspection of this type of fuselage, and it is approximately $ 20 million. We are projecting a growth of 5 years from 2024, with which we will attend 10% of this niche, which is equivalent to more or less $ 1 million. We have managed to develop a pilot test in 10 planes, with which we managed to detect 500 defects through our algorithm.
+
+We are asking for $ 800,000 for 4% of investment, to be able to develop our technology and finish validating it during this year.
+
+[sharkM 5]
+You haven't put anything in yet?
+
+[entrepreneurH 1]
+We haven't put anything in yet. We already have infrastructure, we already have hardware and software, and we are validating this with airlines, physically in planes.
+
+[sharkH 5]
+Are you really going to replace the guy who gets on and checks part by part?
+
+[entrepreneurH 1]
+We are a technological tool that empowers the inspector. We are not the final decision of the inspection.
+
+[sharkH 5]
+So it's not a replacement, but it increases the efficiency of the operation. Exactly.
+
+[sharkM 5]
+How much do you charge and how much do you charge for the service you give to the cell?
+
+[entrepreneurH 1]
+Our business model right now is charging $ 1,250 for the inspection, which is to go do the inspection and deliver the final report with all the information that was found. But compared to the costs that currently come out, which on average are between $ 2,500 per inspection, we can be able to lower those prices, those costs, and still be giving the added value of digitization.
+
+[sharkH 5]
+Excuse me, Carlos, but don't you do the inspection?
+
+[entrepreneurH 1]
+In the short term, we are going to do the inspection of the plane, but the final decision is taken by the inspector. In the medium to long term, what we want to do is train the airline, deliver the drone and have them use it. An annual license per plane.
+
+[sharkH 5]
+Why not do the service?
+
+[entrepreneurH 1]
+We think that in growth we would have two options. One, where we have our own fleet, both in drones and in operational personnel, to go do those inspections. And two, there will be airlines that want a whole kit to be able to process all the information themselves.
+
+But our software will only be licensed to process the images of our type, of our technology, nothing more.
+
+[sharkH 5]
+And the license, how much are you thinking about it per user, per company?
+
+[entrepreneurH 1]
+On average, a plane has 20 inspections a year. So, making numbers, a license of $24,000 a year per plane includes these 20 inspections.
+
+[sharkH 5]
+Mario, tell me about the algorithm. 
+
+[entrepreneurH 1]
+The drone brings a hardware that captures images of the plane and transfers them to a processor that goes inside the drone. We transfer the files to our software, where we will do a recognition, a localization, a perception and analysis of that information so that we can detect the type of defect that we are going to find in the fuselage.
+
+[sharkM 5]
+Hey, what I love is how they looked for this market niche. The fact that they got into working in the industry, to see what things they could optimize and after identifying a business area, that they got into developing all this model, I find it incredible, I love it. However, I do not know this industry, I do not know how I could help them, how I could provide them with value and for the same reason I do not understand the market potential.
+
+So that's why I'm out.
+
+[sharkH 5]
+I need to ask you a quantitative question, because they said three numbers, I just want to review them. They said the market in Mexico is 20 million dollars. They said from 2024 to 2029.
+And that's going to represent one million dollar.
+
+[sharkM 5]
+It would be 2 million dollars.
+
+[sharkH 5]
+To start. They are asking for 800,000 pesos or 40,000 dollars, a little more, for 4% of the company. However, when you get to a million dollars in five years, you will still be in sales in your valuation.
+And that is the scenario they expect. I imagine they are in 2 million, so why the valuation?
+
+[entrepreneurH 1]
+Number one, because of the potential market that airlines are. Two, the type of technology as a start-up is a very well-evaluated technological nature at a global level. And three, we have that projection based today on our competencies and capabilities.
+However, we think that in five years we can double or triple that figure.
+
+[sharkH 5]
+To me, frankly, it gave me a feeling during his entire presentation that they were not going to give us technicalities. It seemed very complicated to me to understand his business. I don't know which part they didn't want to mention or it seemed like they didn't want to give us all the information.
+
+It's a feeling. You didn't make me feel that they truly trusted or believed that we could add some value to them. It's not an industry that I'm particularly passionate about, nor do I think I can add anything to them that is so specialized and so niche.
+
+And that's why I'm proud.
+
+[entrepreneurH 1]
+Thank you. Thank you, Mauri. 
+
+[sharkM 5]
+I'm not the most suitable person to support them.
+I don't have expertise in this area and that's why I'm out.
+
+[entrepreneurH 1]
+Thank you, Marisa. 
+
+[sharkH 5]
+The problem here that I see is what they presented, I'm sorry, with little ambition. What I see is what they presented, I'm sorry, with little ambition.
+I think the valuation they entered based on that is very high. Because even if you get to what they want to get to, that's what the company would sell in five years. And that makes the risk very high.
+
+And that's why I am out.
+
+[sharkH 5]
+Thank you, Marcos. The difficult thing in a business like this is to go from zero to one. Zero to one is when you're testing from zero, you haven't validated yet, and you get customer traction.
+
+And it's easier to go from one to ten than zero to one. If I'm going to get into something like this, with a lot of risk, buying 4% of the company, I want to know that there is a much larger market. Because if they capture 15, 20%, the company is still not going to be that big.
+
+So, for that reason, I am out .
+
+[entrepreneurH 1]
+ Ok, Brian, thank you. Good luck.

@@ -1,0 +1,199 @@
+[entrepreneurH 1]
+I'm Irvic, CEO of IXA and an architect. Hi, I'm Carlos and I co-founded two startups. I joined IXA because I'm passionate about the opportunity to transform an industry.
+
+[entrepreneurH 1]
+Carla is an architect who works in an office. Every time a new project is assigned to her, she has to do three things. Investigate how the client wants their new house, design it, and finally, have to use up to three different softwares to be able to capture her idea and deliver it to the client.
+
+[entrepreneurH 1]
+With IXA, now Carla only has to upload an inspiration drawing and a detailed description to our platform. Based on Carla's drawing, five projects are generated that she can present to her client on the same day. Once the client chooses a project, a 3D model of the house is generated and the plans are delivered with their respective floors, cuts, facades, and renders.
+
+Our business model is a $25 charge per project and it's a win-win considering that Carla charges an average of $1,000 per delivery. Sharks, we're looking for $5,000 in exchange for 20% of the company with a 10% purchase option in one year based on sales goals.
+
+[entrepreneurH 1]
+Sharks, are you ready to be part of the revolution in architecture?
+
+[sharkM 5]
+Irven and Carlos, tell us about your sales from last year.
+
+[entrepreneurH 1]
+We launched the market three weeks ago. We started building it two months ago, but we already have sales. We were able to talk to five offices and we were able to close one with five architects. So we have sales of $125 today. 
+
+[sharkH 5]
+The architect sends you his plans and you help him render them, or is it...? 
+
+[entrepreneurH 1]
+The architect makes a drawing based on what his client asks for and details on our platform what the project is about, what kind of material he's going to use, what the dimensions are. And based on that, we generate the five renders.
+
+[sharkM 5]
+Do you do it with artificial intelligence or is the platform still manual?
+
+[entrepreneurH 1]
+The whole process is with artificial intelligence.
+
+[sharkH 5]
+Everything. Tell us a little bit about your background. Who's the programmer here?
+
+[entrepreneurH 1]
+I am. 
+
+[sharkH 5]
+Who's the genius? 
+
+[entrepreneurH 1]
+The hacker and the hipster.
+
+[sharkH 5]
+That's it.
+
+[sharkM 5]
+And where's the cosplay?
+
+[entrepreneurH 1]
+Here. 
+
+[sharkH 5]
+Did you program artificial intelligence or are you an API hanging from other artificial intelligence services?
+
+[entrepreneurH 1]
+We program it. On the one hand, it's about adjusting the model, but on the other hand, it's about enriching it with data that the model hasn't seen and more focused on architectural issues. 
+
+[sharkM 5]
+So, really, in the whole world, there's no API that does what you do?
+
+[entrepreneurH 1]
+No.
+
+[sharkM 5]
+How long does it take to render?
+
+[entrepreneurH 1]
+A render takes about four hours and with this, it's in seconds, practically.
+
+[entrepreneurH 1]
+In the delivery of the project, an architect takes up to ten days, we reduce it to one day.
+
+[sharkM 5]
+How much does it cost you to get these designs out of a project?
+
+[entrepreneurH 1]
+Right now, it costs us $6 because we launch without optimizing in costs.
+
+[sharkH 5]
+Okay. Do you use your own server or a cloud server? 
+
+[entrepreneurH 1]
+We have the whole process in the cloud.
+
+[sharkH 5]
+If we decide to enter and sell it everywhere, how much is available to process?
+
+[entrepreneurH 1]
+The cloud providers help us so that if there's more workload, it scales by itself. 
+
+[sharkM 5]
+How many programmers do you have right now?
+
+[entrepreneurH 1]
+ We're three programmers.
+
+[sharkM 5]
+How many do you want to have by the end of the year?
+
+[entrepreneurH 1]
+We don't need to grow the team so much, we need to go exploring and receive feedback.
+
+[sharkM 5]
+Irwin and Carlos, I'm doubting investing in you, but I need you to convince me more. What else can you tell me to convince me?
+
+[entrepreneurH 1]
+Well, the market. These 15 offices only represent 0.05% I'm only in Mexico. In the global market, the software we're allied with, they have $1.6 million a month. 
+
+[sharkH 5]
+Do you have to get a license with this program? 
+
+[entrepreneurH 1]
+It's only an API. 
+
+[sharkH 5]
+Okay.
+
+[entrepreneurH 1]
+It's $6,000 a year.
+
+[entrepreneurH 1]
+I have a final comment. Let's see. If we put ourselves in the shoes of our users, who take 10 days of their lives to create a single project, how much would you pay for releasing 9 days of your schedule?
+
+[sharkM 5]
+I'm going to make you an offer. Thank you. For what you've come to ask for, and for the percentage you're offering, with the re-purchase, I think with one condition.
+
+Let's check that this technology doesn't exist anywhere else, and if it does, I'm in. Thank you very much. Thank you.
+
+[sharkM 5]
+Let's see. I don't think this is a start-up yet. This is a start-up.
+
+I think it's more like a university project. With a very short development time. I think they're also very wrong in wanting to charge per project.
+
+This is clearly a software as a service. They should charge it with a subscription process because it's much better and the industry will value them better. I also have a lot of doubts about artificial intelligence.
+
+[sharkM 5]
+I think artificial intelligence is definitely the future. It's the future. Especially for this type of industry.
+
+[sharkM 5]
+Of course, but what I'm saying is that they don't know how it works yet. But, that's how big companies emerge. Right?
+
+So, if Marisa lets me, I'll go up with her, with one condition. Yes. They have to hire the host.
+
+And this is going to be like a piñata. You have to grab the sweets quickly.
+
+[sharkM 5]
+What do you think? If we each offer $5,000, you give them $5,000, I give them $5,000, you give them 20%, they give me 20%, we make an agreement to give them 10% each, and in the end, instead of staying with 5 and 5, you stay with 10, and I stay with 10. I like it.
+
+You have two offers. I'm with my offer, as if I had given it to you alone, and the other is together, so you have the option to give more.
+
+[sharkH 5]
+If I may suggest, Of course, of course, of course. before you came in, I didn't know it was ICSA. At first glance, I don't understand.
+
+Unfortunately, I don't think I can compete with the offers you already have. I wish you a lot of success. I'm out.
+
+[entrepreneurH 1]
+Thank you very much.
+
+[sharkH 5]
+Let's see, Irving, Carlos, I see a lot of things here, a lot of good, a lot of bad, but I think you're betting on something that is very important, to save time for the people who I think are asking today. Time is the most valuable thing we have, but... I'm also going to make you an offer.
+Yes. And what am I going to add to the table? Carla said you needed a hustler.
+I'm a hustler, I have a very strong technology team. I do want to join you, for what you come to ask, $5,000 for 20%, but the repurchase, instead of being a 10, it would be a 5, and I would put all my technology team to work with you, and the issue of sales, that's what I've been given from a very early age. Thank you very much.
+Excuse me, sir, I'm going to add something to my proposal. If we need to put money in, I could also offer you a credit. Obviously at low rates to put capital in it.
+
+[sharkM 5]
+Keep sweetening the offer.
+
+[entrepreneurH 1]
+Thank you very much.
+
+[sharkM 5]
+And you, Alejandra? 
+
+[sharkM 5]
+The truth is, I really like what you're doing. It's a very risky project and venture.
+
+The truth is, I was going to make you an offer, but it wasn't going to be as good as Alejandro's. I think this is the best offer you've had so far, and if I can advise you, I think you should take Alejandro's offer.
+
+And that's why I'm out. 
+
+[sharkM 5]
+I want to improve my offer. I'm going to get out of Marisa's ticket.
+
+Sorry, Marisa. And I'm going to give you $5,000 for 15% of the company. But I want to keep the 10% after the repurchase.
+
+And just like Alejandro told you all the goodness he has, well, I'm an expert in software sales. So, well, I think you have two good offers here. And I've improved the valuation a bit.
+
+I can't offer you credit. I don't have a technology team, but I can also help you to be in contact with the different investment funds that invest in this type of company.
+
+[sharkH 5]
+I'll get Carla's phone number.
+
+[sharkM 5]
+I'll equalize the offer, what you came to ask for, for 15% or 5% of the company.
+
+[entrepreneurH 1]
+Thank you very much for your offers. It's an honor to be here with you. I hope we make the right decision. Carla 

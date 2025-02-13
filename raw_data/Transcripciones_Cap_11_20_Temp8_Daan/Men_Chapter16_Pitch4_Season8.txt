@@ -1,0 +1,133 @@
+[Speaker 1 - Man]
+Hello, sharks, we are Mercado Bici. My name is Gabino Azuela. These are my partners and co-founders, Andrei Torres, CTO, and Mariano Azuela, CEO.
+
+[Speaker 2 - Man]
+We are a platform specialized in selling premium, pre-owned, and new bicycles through consignment and accessible financing. But most importantly, without the risk of fraud. Our business model is very practical. We sell any premium bicycle on consignment and charge a fee of 12% to 18% on each transaction. We recently launched our platform and currently have over a thousand people on the waiting list who want to sell their bicycles through our platform. We also closed our most important partnership, which helped us scale further, with one of the main bicycle distributors in Mexico, who gave us their 54 physical sales points to use as physical inspection sites through which we operate in Mexico.
+
+[Speaker 3 - Man]
+We are currently developing a tool that is a real-time appraisal algorithm so that any user, whether a current or future client, can, in a very practical, simple, and online way, obtain the price of their pre-owned bicycle. This way, we can standardize the prices of all pre-owned bicycles, which currently doesn't exist in Mexico or Latin America.
+
+[Speaker 2 - Man]
+We recently accelerated in Silicon Valley. We have a very solid team of founders with over 10 years of expertise in different areas such as marketing, technology, and business. But not only that, we also have behind us a Board of Advisors who are the muscle behind us and are helping us scale and become a scale-up as soon as possible. We are looking for the best advisors to help us fulfill this vision and be the first to scale the micromobility industry in Latin America. Sharks, today we are not here to ask for capital; today we come to offer you a seat on our Board of Advisors, in exchange for a 0.5% stake in our company to occupy that seat, and we have a spot available for you. Would any of you like to ride with us?
+
+[Marisa Lazo - Woman]
+I have a question. I'm very interested to know how you make sure that the bicycle is not stolen and that it truly offers what it claims to have.
+
+[Speaker 2 - Man]
+Sure, we have several pre-filters and then several filters. The pre-filters include asking if they have the original invoice or their most recent purchase receipt. Unfortunately, most cyclists don't have that. So a second pre-filter is to send each person's information, that is, proof of address, identification, and several photographs of them riding the bicycle. Almost all cyclists have dozens of photographs, and it's very unlikely that someone who doesn't know the origin of their bike or knows that it is stolen or ill-gotten will dare to send all their information and upload a bike.
+
+So those are the pre-filters. Later, indeed, when they accept the value we stipulate, the deal of the quote, etc., we ask them to take it physically to one of those stores, the one closest to them, to verify that the bicycle is in good condition, that it doesn't have a hidden issue, etc., and then we can publish it.
+
+[Amaury Vergara - Man]
+And these stores you have, I imagine they are small bike shops.
+
+[Speaker 1 - Man]
+No, it's one of the largest distributors in Mexico right now, and they already have these stores practically set up where they are going to open a gap for us. We will be doing all the reception of those bicycles without the need to open showrooms or have stores. So we are removing the whole issue of real estate.
+
+[Brian Requarth - Man]
+That's smart because it makes it more agile; you don't need to spend and invest in physical locations.
+
+[Speaker 2 - Man]
+What we want is to scale quickly. And our recipe for scaling is to make more partnerships with the largest distributors so that they give us all their stores. That is, so anyone who wants to sell a bicycle through us can have a nearby store.
+
+[Alejandra Ríos - Woman]
+What is the technology behind this algorithm? To see if it really is something scalable, or is it still very manual?
+
+[Speaker 3 - Man]
+Yes, this algorithm we are developing is our own software. Currently, it is version 1.0 that we can gladly show you. We take several variables, from the year of the bicycle, the brand, the range, the components. It's basically the essentials that anyone who buys a bicycle considers, such as certain modifications, the use it has had, and so on. With this and some financed depreciation models that we have also worked on, we make this calculation as an online quote generator. This allows us not only to provide output data but also to collect input data that users enter. We intend to use this data along with other data available on the internet. The idea is to later scale it to something a bit more automated.
+
+[Alejandra Ríos - Woman]
+Automated, right?
+
+[Speaker 3 - Man]
+Yes, especially with data, having a constant flow of input data and also output data to train this algorithm day by day with usage.
+
+[Alejandra Ríos - Woman]
+The truth is that this worries me, and I don't know much about this type of technology; I don't know the market well. And I think that in this case, I'm not the person you are looking for because I won't be able to contribute much. So that's why I'm out.
+
+[Speaker 2 - Man]
+Thank you.
+
+[Marisa Lazo - Woman]
+It seems to me that you have made very good decisions, intelligent decisions. A business is created like this, over time, making correct and intelligent decisions, obviously with some mistakes. Like Alejandra, I don't have expertise in this area; I don't think I'm the partner that suits you. But I'm sure there are several sharks here who can contribute a lot to your board. For that reason, I'm out.
+
+[Speaker 2 - Man]
+Thank you very much.
+
+[Marisa Lazo - Woman]
+And I congratulate you on the path and the decisions you have made.
+
+[Speaker 3 - Man]
+Thank you very much.
+
+[Marcus Dantus - Man]
+Hey, I know you, and I'm very glad that you have grown so much.
+
+[Speaker 1 - Man]
+Thank you.
+
+[Marcus Dantus - Man]
+Really. But I would love to know exactly what else you need from a board member.
+
+[Speaker 2 - Man]
+Look, we need advisors who understand the Latin market. We need that relational capital that you have, not only to make those intros with partnerships but also to connect us with smart money, as we obviously need to close our round. So for a subsequent stronger round, we obviously need more connections, more investment funds. It helps us a lot to have a high-level advisor from here in Mexico who understands the Latin market. And obviously, if they are from Silicon Valley, that's also great.
+
+[Brian Requarth - Man]
+So you're only looking for an advisor.
+
+[Speaker 2 - Man]
+Yes, but we are open, if you want to invest as well, go ahead, welcome. But the offer here is that we want to offer you an advisory seat for 0.5% of our company at the current valuation.
+
+[Brian Requarth - Man]
+In my case, I currently don't accept advisory roles where they give me shares for advice. So if I take it, that goes against what I recommend to all founders. And personally, I can't be connected and helping you like that. So that's why I'm out.
+
+[Speaker 2 - Man]
+No, that's fine, that's fine. Thank you very much. Totally understood.
+
+[Amaury Vergara - Man]
+Frankly, I'm going to speak to you honestly. I come to this tank to look for projects like this. Above all, I like to team up. You inspire that confidence in me. I want to work with you. And, moreover, you said you wanted a high-level shark in Mexico, and I meet that requirement.
+
+[Alejandra Ríos - Woman]
+That's right, Amaury!
+
+[Marisa Lazo - Woman]
+Yes, and in Latin America.
+
+[Amaury Vergara - Man]
+But what I offer you most is myself, my attitude, my desire to learn as well, but also to be part of something that I believe can be very successful. So that's what I offer you.
+
+[Speaker 2 - Man]
+Thank you very much.
+
+[Marisa Lazo - Woman]
+Come on, Marcus.
+
+[Amaury Vergara - Man]
+I gladly offer you the advisory role. I would love to help you.
+
+[Speaker 2 - Man]
+Thank you very much.
+
+[Marcus Dantus - Man]
+As we have already done.
+
+[Speaker 2 - Man]
+Thanks, thanks.
+
+[Marisa Lazo - Woman]
+So you have two offers.
+
+[Speaker 2 - Man]
+Well, sharks, first of all, we thank the three who are not joining us for the sincerity you offered us. And to Amaury and Marcus as well for seeing the opportunity. Unfortunately, we can only go with one, because that's what we have allocated from our board, and that's the percentage we have allocated for one person. And, Marcus, you have already helped us a lot through Startup Mexico, and on this occasion, we will go with Amaury to give the opportunity to the more traditional team.
+
+[Marcus Dantus - Man]
+I think it makes a good complement.
+
+[Speaker 2 - Man]
+But with ambition. Thank you very much. Thank you very much to all of you.
+
+[Amaury Vergara - Man]
+Do we have a deal?
+
+[Speaker 2 - Man]
+We have a deal.
